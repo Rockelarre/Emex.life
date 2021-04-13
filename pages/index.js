@@ -22,7 +22,7 @@ class Index extends Component {
                 <About />
                 <a name="servicios" />
                 <Services />
-                <Webinar />
+                {/* <Webinar /> */}
                 <a name="clientes" />
                 <PartnerContent />
                 <FeedbackSlider />
