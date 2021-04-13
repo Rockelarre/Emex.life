@@ -34,7 +34,7 @@ class ContactFormContent extends Component {
                         <div className="contact-info-content">
                             <h3>Contáctanos directamente para agendar un servicio.</h3>
                             <h2>
-                                <span>Ventas</span>
+                                <span>WhatsApp Ventas</span>
                                 <br />
                                 <span className="number">+569 6702 0377</span>
                                 {/* <span className="or">OR</span>

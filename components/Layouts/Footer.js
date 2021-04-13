@@ -182,7 +182,7 @@ class Footer extends Component {
                                     <br/>
                                     <a target="_blank" href="https://www.flaticon.es/autores/ddara" title="dDara">dDara</a>
                                     <br/>
-                                    <a target="_blank" href="https://www.freepik.es/vectores/negocios" title="dDara">studiogstock</a>
+                                    <a target="_blank" href="https://www.freepik.es/vectores/negocios" title="studiogstock">studiogstock</a>
                                 </div>
 
                                 

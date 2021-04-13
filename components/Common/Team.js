@@ -33,7 +33,7 @@ class Team extends Component {
                                 </div>
 
                                 <div className="content">
-                                    <h3>Baltazar Vega T.</h3>
+                                    <h3>Baltazar Vega</h3>
                                     <span>+569 5472 0827</span>
                                     <span>balvega@emexchile.cl</span>
                                 </div>
@@ -47,9 +47,23 @@ class Team extends Component {
                                 </div>
 
                                 <div className="content">
-                                    <h3>Hugo Caro A.</h3>
+                                    <h3>Hugo Caro</h3>
                                     <span>+569 9107 9151</span>
                                     <span>hugocaro@emexchile.cl</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6">
+                            <div className="single-team-box">
+                                <div className="icon">
+                                    <img src="/icons/chinese.svg" alt="image" />
+                                </div>
+
+                                <div className="content">
+                                    <h3>Viviana Vega</h3>
+                                    <span>+56 9 9107 9568</span>
+                                    <span>vcvega@emexchile.cl</span>
                                 </div>
                             </div>
                         </div>
