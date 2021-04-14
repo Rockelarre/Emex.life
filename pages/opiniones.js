@@ -6,13 +6,14 @@ import FeedbackSlider from '../components/Common/FeedbackSlider';
 /* import CustomerFeedback from '../components/HomeFive/CustomerFeedback'; */
 import Footer from '../components/Layouts/Footer';
 import Head from 'next/head';
+import { Html } from 'next/document';
 
 class Feedback extends Component {
     render() {
         return (
             <React.Fragment>
+                <Html lang="es"/>
                 <Head>
-                {/* <html lang="es"/> */}
                 <title>EMEX - Opiniones de Nuestros Clientes</title>
                 </Head>
                 <Navbar_2 />

@@ -12,14 +12,15 @@ import MediosPago from '../components/Common/MediosPago';
 import FreeTrialForm from '../components/Common/FreeTrialForm';
 import Footer from '../components/Layouts/Footer';
 import Head from 'next/head';
+import { Html } from 'next/document';
 
 class Index extends Component {
     render() {
         return (
             
             <React.Fragment>
+                <Html lang="es"/>
                 <Head>
-                {/* <html lang="es"/> */}
                 <title>EMEX - Control de Plagas - Inicio</title>
                 </Head>
                 <Navbar />
