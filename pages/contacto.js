@@ -25,9 +25,18 @@ class Contact extends Component {
                 telephone: "(+56) 9 6702 0377",
                 url: "http://www.cianware.com"
               },
+              "@graph": {
+                "@id": "https://cl.emex.cl",
+                  "@type": "Organization",
+                  name: "EMEX",
+                  url: "https://cl.emex.cl",
+                  logo: "https://cl.emex.cl/emex.svg",
+                  sameAs: [
+                    "https://www.facebook.com/emex.life"
+                  ]
+                },
               description: "En esta página se presentan los representante de la empresa EMEX - Control de Plagas, y sus datos de contacto, teléfono, email, y también se muestra un teléfono para contactarse por WhatsApp directamente para agendar y comprar servicios.",
               funder: "EMEX - Control de Plagas",
-              url: "http://www.facebook.com/emex.life",
               keywords: "control de plagas,sanitización,desratización,desinsectación,control de palomas,instalación de pinchos para aves,control de murciélagos,trampas ultravioleta,roedores,ratones,ratas,guarenes,pericotes,insectos,termitas,cucarachas,baratas,chinches,moscas,mosquitos,arácnidos,arañas,murciélagos,sanitización de espacios comunes,virus,coronavirus,tifus,influenza,bacterias,estreptococo,hongos,asesorías técnicas,control,prevención,educación,casas particulares,empresas manufactureras,empresas comerciales,industrias,condominios,oficinas,restaurantes,instituciones educativas,entes gubernamentales,planes de servicios,medios de pago,efectivo,transferencia bancaria,tarjeta de crédito"
             })
         }}
