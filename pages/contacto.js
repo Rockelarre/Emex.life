@@ -10,8 +10,8 @@ class Contact extends Component {
     render() {
         return (
             <React.Fragment>
-                <html lang="es"/>
                 <Head>
+                <html lang="es"/>
                 <title>EMEX - Contacto</title>
                 </Head>
                 <Navbar_2 />

@@ -11,8 +11,8 @@ class Feedback extends Component {
     render() {
         return (
             <React.Fragment>
-                <html lang="es"/>
                 <Head>
+                <html lang="es"/>
                 <title>EMEX - Opiniones de Nuestros Clientes</title>
                 </Head>
                 <Navbar_2 />
