@@ -46,7 +46,7 @@ export default class MyApp extends App {
                     <meta property="og:title" content="EMEX - Control de Plagas" />
                     <meta property="og:description" content="Una empresa nacional, 
                                                         entendemos el problema de las plagas en Chile." />
-                    <meta property="og:image" content="https://cl.emex.life/emex-og.png" />
+                    <meta property="og:image" content="https://cl.emex.life/emex_og.png" />
                     <title>EMEX - Control de Plagas</title>
                 </Head>
 
