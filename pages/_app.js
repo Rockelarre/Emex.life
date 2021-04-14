@@ -45,7 +45,7 @@ export default class MyApp extends App {
                     <meta name="twitter:image" content="https://cl.emex.life/emex_tw.png" />
                     <meta name="twitter:site" content="https://cl.emex.life/" />
                     <meta name="twitter:title" content="EMEX - Control de Plagas" />
-                    <meta name="twitter:description'" content="Una empresa nacional, 
+                    <meta name="twitter:description" content="Una empresa nacional, 
                                                         entendemos el problema de las plagas en Chile." />
                     <meta property="og:url" content="https://cl.emex.life/" />
                     <meta property="og:type" content="website" />
