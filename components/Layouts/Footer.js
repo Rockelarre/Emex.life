@@ -148,7 +148,7 @@ class Footer extends Component {
                                         <img src="/images/white-logo.png" alt="image" />
                                     </a> */}
                                     <h3>Créditos</h3>
-                                    <a>Fotografías:</a>
+                                    <a className="creditos-titulo">Fotografías:</a>
                                     <a target="_blank" href="https://www.pexels.com/photo/person-holding-coin-1602726/">Alcancía por senivpetro en Pexels</a>
                                     <a target="_blank" href="https://es.vecteezy.com/vectores-gratis/cintas-doradas">Cintas Doradas Vectores por Vecteezy</a>
                                     <a target="_blank" href='https://www.freepik.es/fotos/negocios'>Negocios por senivpetro en Freepik</a>
@@ -157,7 +157,7 @@ class Footer extends Component {
                                     <a target="_blank" href="https://www.freepik.es/fotos/cafe">Café por shurkin_son en Freepik</a>
                                     <br/>
                                     <br/>
-                                    <div><a>Vectores:</a></div>
+                                    <div><a className="creditos-titulo">Vectores:</a></div>
                                     <a target="_blank" href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a>
                                     <br/>
                                     <a target="_blank" href="https://www.freepik.com" title="Freepik">Freepik</a>
