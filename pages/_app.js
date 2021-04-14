@@ -34,7 +34,7 @@ export default class MyApp extends App {
 
         return (
             <React.Fragment>
-                <html lang="es"/>
+                {/* <html lang="es"/> */}
                 <Head>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                     <meta name="description" content="Somos una empresa nacional, 

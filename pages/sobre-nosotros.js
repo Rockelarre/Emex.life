@@ -15,6 +15,7 @@ class About extends Component {
     render() {
         return (
             <React.Fragment>
+                <html lang="es"/>
                 <Head>
                 <title>EMEX - Sobre Nosotros</title>
                 </Head>

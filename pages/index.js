@@ -16,8 +16,9 @@ import Head from 'next/head';
 class Index extends Component {
     render() {
         return (
-
+            
             <React.Fragment>
+                <html lang="es"/>
                 <Head>
                 <title>EMEX - Control de Plagas - Inicio</title>
                 </Head>
