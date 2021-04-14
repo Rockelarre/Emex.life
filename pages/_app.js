@@ -34,14 +34,14 @@ export default class MyApp extends App {
 
         return (
             <React.Fragment>
+                <html lang="es-ES"/>
                 <Head>
-                    <html lang="es" />
-                    <title>EMEX - Control de Plagas</title>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                     <meta name="description" content="Somos una empresa nacional, 
                                                         entendemos el problema de las plagas en Chile 
                                                         desde nuestra realidad local."
                                                         />
+                     <title>EMEX - Control de Plagas</title>
                 </Head>
 
                 <Component {...pageProps} />
