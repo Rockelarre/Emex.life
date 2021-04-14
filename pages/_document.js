@@ -9,7 +9,7 @@ class MyDocument extends Document {
 
     render() {
         return (
-            <Html lang="zxx">
+            <Html lang="es">
                 <Head>
                     <link rel="icon" type="image/png" href="/images/favicon.svg"></link>
                 </Head>

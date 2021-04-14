@@ -5,13 +5,11 @@ import Team from '../components/Common/Team';
 import ContactFormContent from '../components/Contact/ContactFormContent';
 import Footer from '../components/Layouts/Footer';
 import Head from 'next/head';
-import { Html } from 'next/document';
 
 class Contact extends Component {
     render() {
         return (
             <React.Fragment>
-                <Html lang="es"/>
                 <Head>
                 <title>EMEX - Contacto</title>
                 </Head>
