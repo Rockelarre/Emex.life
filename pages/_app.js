@@ -41,7 +41,13 @@ export default class MyApp extends App {
                                                         entendemos el problema de las plagas en Chile 
                                                         desde nuestra realidad local."
                                                         />
-                     <title>EMEX - Control de Plagas</title>
+                    <meta property="og:url" content="https://cl.emex.life/" />
+                    <meta property="og:type" content="website" />
+                    <meta property="og:title" content="EMEX - Control de Plagas" />
+                    <meta property="og:description" content="Una empresa nacional, 
+                                                        entendemos el problema de las plagas en Chile." />
+                    <meta property="og:image" content="https://cl.emex.life/emex-2.svg" />
+                    <title>EMEX - Control de Plagas</title>
                 </Head>
 
                 <Component {...pageProps} />
