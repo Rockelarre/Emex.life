@@ -38,14 +38,9 @@ export default class MyApp extends App {
                     <html lang="es" />
                     <title>EMEX - Control de Plagas</title>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                    <meta name="description" content="EMEX - Control de Plagas es una empresa nacional, 
+                    <meta name="description" content="Somos una empresa nacional, 
                                                         entendemos el problema de las plagas en Chile 
-                                                        desde nuestra realidad local.
-                                                        Tenemos mucha confianza en que nuestros métodos, 
-                                                        desarrollados a partir de nuestra propia experiencia y 
-                                                        conocimiento, son muy superiores a los métodos extranjeros 
-                                                        implementados por la competencia, que son una solución a un 
-                                                        problema muy diferente al que nos afecta como país."
+                                                        desde nuestra realidad local."
                                                         />
                 </Head>
 
