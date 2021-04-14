@@ -66,7 +66,7 @@ class Footer extends Component {
 
                                 <ul className="quick-links-list">
                                     <li>
-                                        <Link href="/home">
+                                        <Link href="/">
                                             <a>Home</a>
                                         </Link>
                                     </li>
@@ -147,7 +147,7 @@ class Footer extends Component {
                                     {/* <a href="/">
                                         <img src="/images/white-logo.png" alt="image" />
                                     </a> */}
-                                    <h3>CRÉDITOS</h3>
+                                    <h3>Créditos</h3>
                                     <a>Fotografías:</a>
                                     <a target="_blank" href="https://www.pexels.com/photo/person-holding-coin-1602726/">Alcancía por senivpetro en Pexels</a>
                                     <a target="_blank" href="https://es.vecteezy.com/vectores-gratis/cintas-doradas">Cintas Doradas Vectores por Vecteezy</a>
