@@ -14,6 +14,8 @@ import React from 'react';
 import Loader from '../components/Shared/Loader'; 
 import GoTop from '../components/Shared/GoTop';
 
+import { Html } from 'next/document';
+
 export default class MyApp extends App {
     // Preloader
     state = {
@@ -34,7 +36,7 @@ export default class MyApp extends App {
 
         return (
             <React.Fragment>
-                {/* <html lang="es"/> */}
+                <Html lang="es"/>
                 <Head>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                     <meta name="description" content="Somos una empresa nacional, 

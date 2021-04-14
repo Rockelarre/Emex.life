@@ -12,7 +12,7 @@ class Feedback extends Component {
         return (
             <React.Fragment>
                 <Head>
-                <html lang="es"/>
+                {/* <html lang="es"/> */}
                 <title>EMEX - Opiniones de Nuestros Clientes</title>
                 </Head>
                 <Navbar_2 />

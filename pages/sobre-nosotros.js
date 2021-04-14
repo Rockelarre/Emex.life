@@ -16,7 +16,7 @@ class About extends Component {
         return (
             <React.Fragment>
                 <Head>
-                <html lang="es"/>
+                {/* <html lang="es"/> */}
                 <title>EMEX - Sobre Nosotros</title>
                 </Head>
                 <Navbar_2 />

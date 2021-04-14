@@ -11,7 +11,7 @@ class Contact extends Component {
         return (
             <React.Fragment>
                 <Head>
-                <html lang="es"/>
+                {/* <html lang="es"/> */}
                 <title>EMEX - Contacto</title>
                 </Head>
                 <Navbar_2 />

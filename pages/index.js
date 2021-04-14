@@ -19,7 +19,7 @@ class Index extends Component {
             
             <React.Fragment>
                 <Head>
-                <html lang="es"/>
+                {/* <html lang="es"/> */}
                 <title>EMEX - Control de Plagas - Inicio</title>
                 </Head>
                 <Navbar />
