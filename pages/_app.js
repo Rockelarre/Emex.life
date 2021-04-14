@@ -54,6 +54,8 @@ export default class MyApp extends App {
                                                         entendemos el problema de las plagas en Chile." />
                     <meta property="og:image" content="https://cl.emex.life/emex_og.png" />
                     {/* <title>EMEX - Control de Plagas</title> */}
+                    <link rel="alternate" hreflang="es" href="http://cl.emex.life/" />
+                    <meta http-equiv="Content-Language" content="es" />
                 </Head>
 
                 <Component {...pageProps} />
