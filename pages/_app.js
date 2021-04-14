@@ -41,6 +41,8 @@ export default class MyApp extends App {
                                                         entendemos el problema de las plagas en Chile 
                                                         desde nuestra realidad local."
                                                         />
+                    <meta name="twitter:card" content="Una empresa nacional, 
+                                                        entendemos el problema de las plagas en Chile." />
                     <meta property="og:url" content="https://cl.emex.life/" />
                     <meta property="og:type" content="website" />
                     <meta property="og:title" content="EMEX - Control de Plagas" />
