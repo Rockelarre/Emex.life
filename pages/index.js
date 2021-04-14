@@ -24,7 +24,7 @@ class Index extends Component {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({
             "@context": "http://schema.org",
-            "@type": "Empresa",
+            "@type": "Organization",
             author: {
                 "@type": "Person",
                 email: "mailto:leogrises@gmail.com",
