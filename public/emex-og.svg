@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="emex.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="emex-og.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 210 279"
+   viewBox="0 0 278.99999 279"
    height="1054.4882"
-   width="793.70081">
+   width="1054.4882">
   <title
      id="title907">logotipo emex control de plagas</title>
   <defs
@@ -32,13 +32,13 @@
      inkscape:window-y="-8"
      inkscape:window-x="-8"
      inkscape:window-height="705"
-     inkscape:window-width="1360"
+     inkscape:window-width="1366"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g859"
-     inkscape:document-units="mm"
-     inkscape:cy="631.33213"
-     inkscape:cx="498.37329"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="406.86501"
+     inkscape:cx="894.19155"
      inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -48,7 +48,24 @@
      id="base"
      showborder="true"
      inkscape:showpageshadow="false"
-     units="px" />
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="140.22917,285.2366"
+       orientation="-1,0"
+       id="guide928"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="278.94643,138.77083"
+       orientation="0,1"
+       id="guide932"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -106,7 +123,7 @@
     <g
        id="g845"
        clip-path="url(#clipPath849)"
-       transform="matrix(0.17916812,0,0,-0.17916812,-18.787282,292.11252)">
+       transform="matrix(0.15353877,0,0,-0.15353877,33.905563,270.15582)">
       <g
          id="g851"
          transform="translate(692.4832,1511.067)">
