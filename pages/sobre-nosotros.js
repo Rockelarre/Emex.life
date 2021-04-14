@@ -9,11 +9,15 @@ import FeedbackSlider from '../components/Common/FeedbackSlider';
 import PricingCard from '../components/Common/PricingCard';
 import FreeTrialForm from '../components/Common/FreeTrialForm';
 import Footer from '../components/Layouts/Footer';
+import Head from 'next/head';
 
 class About extends Component {
     render() {
         return (
             <React.Fragment>
+                <Head>
+                <title>EMEX - Sobre Nosotros</title>
+                </Head>
                 <Navbar_2 />
                 <PageBanner 
                     pageTitle="Sobre Nosotros" 

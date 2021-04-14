@@ -11,12 +11,16 @@ import MediosPago from '../components/Common/MediosPago';
 /* import BlogPost from '../components/Common/BlogPost'; */
 import FreeTrialForm from '../components/Common/FreeTrialForm';
 import Footer from '../components/Layouts/Footer';
+import Head from 'next/head';
 
 class Index extends Component {
     render() {
         return (
 
             <React.Fragment>
+                <Head>
+                <title>EMEX - Control de Plagas - Inicio</title>
+                </Head>
                 <Navbar />
                 <MainBanner />
                 <About />

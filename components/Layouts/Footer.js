@@ -67,7 +67,7 @@ class Footer extends Component {
                                 <ul className="quick-links-list">
                                     <li>
                                         <Link href="/">
-                                            <a>Home</a>
+                                            <a>Inicio</a>
                                         </Link>
                                     </li>
                                     <li>

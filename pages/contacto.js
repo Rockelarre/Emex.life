@@ -4,11 +4,15 @@ import PageBanner from '../components/Common/PageBanner';
 import Team from '../components/Common/Team';
 import ContactFormContent from '../components/Contact/ContactFormContent';
 import Footer from '../components/Layouts/Footer';
+import Head from 'next/head';
 
 class Contact extends Component {
     render() {
         return (
             <React.Fragment>
+                <Head>
+                <title>EMEX - Contacto</title>
+                </Head>
                 <Navbar_2 />
                 <PageBanner 
                     pageTitle="Contacto" 
