@@ -45,15 +45,8 @@ export default class MyApp extends App {
                                                         desarrollados a partir de nuestra propia experiencia y 
                                                         conocimiento, son muy superiores a los métodos extranjeros 
                                                         implementados por la competencia, que son una solución a un 
-                                                        problema muy diferente al que nos afecta como país. 
-                                                        El control de plagas es una labor de estudio previo y conocimiento 
-                                                        de los comportamientos de los seres vivos a controlar.
-                                                        En Emex - Control de Plagas, tenemos un horizonte con 
-                                                        un claro rumbo hacia la responsabilidad ambiental, 
-                                                        social y empresarial, lo que nos impone el desafío de 
-                                                        ser competentes, con metodologías cada vez menos 
-                                                        contaminantes e invasivas y además, menos costosas 
-                                                        pero muy eficientes, eficaces y efectivas." />
+                                                        problema muy diferente al que nos afecta como país."
+                                                        />
                 </Head>
 
                 <Component {...pageProps} />
