@@ -41,19 +41,19 @@ export default class MyApp extends App {
                                                         desde nuestra realidad local."
                                                         />
                     <meta name="twitter:card" content="summary" />
-                    <meta name="twitter:image" content="https://cl.emex.life/emex_tw.png" />
-                    <meta name="twitter:site" content="https://cl.emex.life/" />
+                    <meta name="twitter:image" content="https://emexplagas.cl/emex_tw.png" />
+                    <meta name="twitter:site" content="https://emexplagas.cl/" />
                     <meta name="twitter:title" content="EMEX - Control de Plagas" />
                     <meta name="twitter:description" content="Una empresa nacional, 
                                                         entendemos el problema de las plagas en Chile." />
-                    <meta property="og:url" content="https://cl.emex.life/" />
+                    <meta property="og:url" content="https://emexplagas.cl/" />
                     <meta property="og:type" content="website" />
                     <meta property="og:title" content="EMEX - Control de Plagas" />
                     <meta property="og:description" content="Una empresa nacional, 
                                                         entendemos el problema de las plagas en Chile." />
-                    <meta property="og:image" content="https://cl.emex.life/emex_og.png" />
+                    <meta property="og:image" content="https://emexplagas.cl/emex_og.png" />
                     {/* <title>EMEX - Control de Plagas</title> */}
-                    <link rel="alternate" hreflang="es" href="http://cl.emex.life/" />
+                    <link rel="alternate" hreflang="es" href="http://emexplagas.cl/" />
                     <meta http-equiv="Content-Language" content="es" />
                 </Head>
 

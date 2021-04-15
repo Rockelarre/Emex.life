@@ -34,11 +34,11 @@ class Index extends Component {
                 url: "http://www.cianware.com"
               },
               "@graph": {
-                "@id": "https://cl.emex.cl",
+                "@id": "https://emexplagas.cl",
                   "@type": "Organization",
                   name: "EMEX",
-                  url: "https://cl.emex.cl",
-                  logo: "https://cl.emex.cl/emex.svg",
+                  url: "https://emexplagas.cl",
+                  logo: "https://emexplagas.cl/emex.svg",
                   sameAs: [
                     "https://www.facebook.com/emex.life"
                   ]
