@@ -14,6 +14,19 @@ import React from 'react';
 import Loader from '../components/Shared/Loader'; 
 import GoTop from '../components/Shared/GoTop';
 
+/* export function reportWebVitals({ id, name, label, value }) {
+    // Use `window.gtag` if you initialized Google Analytics as this example:
+    // https://github.com/vercel/next.js/blob/canary/examples/with-google-analytics/pages/_document.js
+    window.gtag('event', name, {
+      event_category:
+        label === 'web-vital' ? 'Web Vitals' : 'Next.js custom metric',
+      value: Math.round(name === 'CLS' ? value * 1000 : value), // values must be integers
+      event_label: id, // id unique to current page load
+      non_interaction: true, // avoids affecting bounce rate.
+    })
+  } */
+  
+
 export default class MyApp extends App {
     // Preloader
     state = {
@@ -68,3 +81,4 @@ export default class MyApp extends App {
         );
     }
 }
+

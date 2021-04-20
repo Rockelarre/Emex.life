@@ -61,7 +61,7 @@ class About extends Component {
                 {/* <PartnerContent /> */}
                 {/* <FeedbackSlider /> */}
                 {/* <PricingCard /> */}
-                <FreeTrialForm />
+                {/* <FreeTrialForm /> */}
                 <Footer/>
             </React.Fragment>
         );

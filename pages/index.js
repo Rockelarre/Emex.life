@@ -60,11 +60,11 @@ class Index extends Component {
                 <PartnerContent />
                 <FeedbackSlider />
                 <a name="precios" />
-                <PricingCard />
+                {/* <PricingCard /> */}
                 <a name="pago" />
                 <MediosPago />
                 {/* <BlogPost /> */}
-                <FreeTrialForm />
+                {/* <FreeTrialForm /> */}
                 <Footer />
             </React.Fragment>
         );
