@@ -90,7 +90,7 @@ class Navbar_2 extends Component {
 
                                         {<li className="nav-item">
                                             <Link href="#pago" activeClassName="active">
-                                                <a className="nav-link">Medios de Pago</a>
+                                                <a className="nav-link">Medios de Pagosss</a>
                                             </Link>
                                         </li>}
 
