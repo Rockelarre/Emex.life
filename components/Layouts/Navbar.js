@@ -88,11 +88,11 @@ class Navbar_2 extends Component {
                                             </Link>
                                         </li>
 
-                                        <li className="nav-item">
-                                            <Link href="#precios" activeClassName="active">
-                                                <a className="nav-link">Precios</a>
+                                        {<li className="nav-item">
+                                            <Link href="#pago" activeClassName="active">
+                                                <a className="nav-link">Medios de Pago</a>
                                             </Link>
-                                        </li>
+                                        </li>}
 
                                         <li className="nav-item">
                                             <Link href="/opiniones" activeClassName="active">
